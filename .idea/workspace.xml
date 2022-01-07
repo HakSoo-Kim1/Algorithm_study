@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b06f6fb8-3f01-42ae-976e-fab48b8ef59a" name="Changes" comment="Add Group Anagrams" />
+    <list default="true" id="b06f6fb8-3f01-42ae-976e-fab48b8ef59a" name="Changes" comment="Add Binary Tree Inorder Traversal" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -168,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641427762370</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add Binary Tree Inorder Traversal">
+      <created>1641530348268</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1641530348268</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,6 +192,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Find the Duplicate Number" />
     <MESSAGE value="Add Group Anagrams" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Group Anagrams" />
+    <MESSAGE value="Add Binary Tree Inorder Traversal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Binary Tree Inorder Traversal" />
   </component>
 </project>
