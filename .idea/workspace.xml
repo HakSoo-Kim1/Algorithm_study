@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b06f6fb8-3f01-42ae-976e-fab48b8ef59a" name="Changes" comment="Add Binary Tree Inorder Traversal" />
+    <list default="true" id="b06f6fb8-3f01-42ae-976e-fab48b8ef59a" name="Changes" comment="Add Binary Tree Right Side Viewl" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -175,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641530348268</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add Binary Tree Right Side Viewl">
+      <created>1641573125628</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1641573125628</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,6 +200,18 @@
     <MESSAGE value="Add Find the Duplicate Number" />
     <MESSAGE value="Add Group Anagrams" />
     <MESSAGE value="Add Binary Tree Inorder Traversal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Binary Tree Inorder Traversal" />
+    <MESSAGE value="Add Binary Tree Right Side Viewl" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Binary Tree Right Side Viewl" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
