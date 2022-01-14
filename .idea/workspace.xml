@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b06f6fb8-3f01-42ae-976e-fab48b8ef59a" name="Changes" comment="Add Permutations" />
+    <list default="true" id="b06f6fb8-3f01-42ae-976e-fab48b8ef59a" name="Changes" comment="Add Rotate Image" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -210,7 +210,21 @@
       <option name="project" value="LOCAL" />
       <updated>1641878430941</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add Permutations">
+      <created>1642015836430</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1642015836430</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add Rotate Image">
+      <created>1642015861729</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1642015861729</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -233,7 +247,8 @@
     <MESSAGE value="Add Kth Largest Element in an Array" />
     <MESSAGE value="Add faster algorithm with Expand Around Center" />
     <MESSAGE value="Add Permutations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Permutations" />
+    <MESSAGE value="Add Rotate Image" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Rotate Image" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
