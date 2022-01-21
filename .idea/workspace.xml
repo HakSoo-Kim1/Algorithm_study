@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b06f6fb8-3f01-42ae-976e-fab48b8ef59a" name="Changes" comment="Add Rotate Image" />
+    <list default="true" id="b06f6fb8-3f01-42ae-976e-fab48b8ef59a" name="Changes" comment="Add Merge Intervals">
+      <change afterPath="$PROJECT_DIR$/Combination Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -224,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642015861729</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add Merge Intervals">
+      <created>1642176658544</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1642176658544</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -248,7 +258,8 @@
     <MESSAGE value="Add faster algorithm with Expand Around Center" />
     <MESSAGE value="Add Permutations" />
     <MESSAGE value="Add Rotate Image" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Rotate Image" />
+    <MESSAGE value="Add Merge Intervals" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Merge Intervals" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
