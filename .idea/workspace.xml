@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b06f6fb8-3f01-42ae-976e-fab48b8ef59a" name="Changes" comment="Add Binary Tree Level Order Traversal" />
+    <list default="true" id="b06f6fb8-3f01-42ae-976e-fab48b8ef59a" name="Changes" comment="Add Letter Combinations of a Phone Number" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -252,7 +252,21 @@
       <option name="project" value="LOCAL" />
       <updated>1642875905629</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Add Binary Tree Level Order Traversal">
+      <created>1642968316013</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1642968316013</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Add Letter Combinations of a Phone Number">
+      <created>1642968334622</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1642968334622</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -280,6 +294,18 @@
     <MESSAGE value="Add Combination Sum" />
     <MESSAGE value="Add Combination Sum II" />
     <MESSAGE value="Add Binary Tree Level Order Traversal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Binary Tree Level Order Traversal" />
+    <MESSAGE value="Add Letter Combinations of a Phone Number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Letter Combinations of a Phone Number" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

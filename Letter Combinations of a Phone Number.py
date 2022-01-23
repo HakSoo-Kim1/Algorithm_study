@@ -4,19 +4,17 @@
 
 class Solution(object):
     def letterCombinations(self, digits):
+        if (len(digits) == 0):
+            return []
         digitLetters = ["", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"]
-        combinations = []
+        combinations = [""]
 
         for i, digit in enumerate(digits):
-            if (len(combinations) == 0):
+            temp = []
+            for combination in combinations:
                 for j, letter in enumerate(digitLetters[int(digit)]):
-                    combinations.append(letter)
-            else:
-                temp = []
-                for combination in combinations:
-                    for j, letter in enumerate(digitLetters[int(digit)]):
-                        temp.append(combination + letter)
-                combinations = temp
+                    temp.append(combination + letter)
+            combinations = temp
         return combinations
         """
         :type digits: str
