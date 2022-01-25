@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b06f6fb8-3f01-42ae-976e-fab48b8ef59a" name="Changes" comment="Add Letter Combinations of a Phone Number" />
+    <list default="true" id="b06f6fb8-3f01-42ae-976e-fab48b8ef59a" name="Changes" comment="Add Evaluate Reverse Polish Notation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -273,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642968645687</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Add Evaluate Reverse Polish Notation">
+      <created>1643051625536</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1643051625536</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -302,6 +309,7 @@
     <MESSAGE value="Add Combination Sum II" />
     <MESSAGE value="Add Binary Tree Level Order Traversal" />
     <MESSAGE value="Add Letter Combinations of a Phone Number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Letter Combinations of a Phone Number" />
+    <MESSAGE value="Add Evaluate Reverse Polish Notation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Evaluate Reverse Polish Notation" />
   </component>
 </project>
