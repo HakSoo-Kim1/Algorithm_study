@@ -17,6 +17,23 @@ class Solution(object):
         for i in range(len(nums)):
             self.backtrack(ans, temp + [nums[i]], nums[i+1:])
 
+
+class Solution(object):
+    def subsets(self, nums):
+        ans = []
+        temp = []
+        self.backtrack(ans, temp, nums, 0)
+        return (ans)
+        """
+        :type nums: List[int]
+        :rtype: List[List[int]]
+        """
+    def backtrack(self, ans, temp, nums, index):
+        ans.append(temp)
+        for i in range(index, len(nums)):
+            self.backtrack(ans, temp + [nums[i]], nums, i + 1)
+
+
 # Given an integer array nums of unique elements, return all possible subsets (the power set).
 #
 # The solution set must not contain duplicate subsets. Return the solution in any order.
