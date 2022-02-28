@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/merge-two-binary-trees/
+# https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 # Hak Soo Kim
 # 2/27/2022
 
