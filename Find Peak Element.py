@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/odd-even-linked-list/
+# https://leetcode.com/problems/find-peak-element/
 # Hak Soo Kim
 # 1/25/2022
 
